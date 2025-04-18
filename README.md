@@ -89,8 +89,8 @@ mvn release:perform -Darguments="-DskipTests"
 - **Result**:  
 Artifacts released successfully. New version initialized.
 
-![alt text](<Screenshot 2025-04-18 at 00.47.11.png>)
-![alt text](<Screenshot 2025-04-18 at 00.48.55.png>)
+![alt text](`.png)
+![alt text](2.png)
 ---
 
 ## 9. Perform Release Cleanup
@@ -101,4 +101,4 @@ mvn release:clean
 - **Result**:  
 Cleanup after release completed successfully.
 
-![alt text](<Screenshot 2025-04-18 at 00.49.33.png>)
+![alt text](3.png)
